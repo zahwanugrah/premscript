@@ -80,12 +80,10 @@ Premium autoscript installer used to install SSH, STUNNEL, OVPN, and PPTP VPN on
 
 ### Credits:
 
-Hosting Termurah & VPS-Murah
+Hosting VPS & VPS-Panel
+
+Wasap.my/+601136677103
+Telegram: t.me/miko2288
 
 
-
-
-
-
-
-Created by 0123456
+Created by CCS_TECHNOLOGY
